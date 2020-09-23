@@ -4,6 +4,8 @@ This is an easy esm server which made by Express.js, you can read this plugin to
 
 Please be noted that since this plugin is just build for demoing & practicing, there must be lots of unhandled issues. If you are looking for a production tool, this plugin might not be your choice.
 
+explain in chinese...[Vue/Vitejs 部分源碼解析](https://johnnywang1994.github.io/book/JS/esm-server.html)
+
 
 ## Install
 
